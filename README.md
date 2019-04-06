@@ -1,5 +1,5 @@
-# Thesis template for Tel-Aviv University
-A thesis latex formatted according the requirement in the Tel-Aviv University at the faculty of engineering.
+# Latex Doc template
+A latex doc formatted according to the scientific publication requirement.
 
 ### Demos:
 1. Here is a link to the example pdf [Thesis-main.pdf](Thesis-main.pdf).
