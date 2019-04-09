@@ -2,7 +2,7 @@
 A latex doc formatted according to the scientific publication requirement.
 
 ### Demos:
-1. Here is a link to the example pdf [doc.pdf](Thesis-main.pdf).
+1. Here is a link to the example pdf [doc.pdf](doc.pdf).
 2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)
 
 
