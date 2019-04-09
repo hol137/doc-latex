@@ -4,6 +4,7 @@ A latex doc formatted according to the scientific publication requirement.
 ### Demos:
 1. Here is a link to the example pdf [doc.pdf](Thesis-main.pdf).
 2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=Thesis-main.tex&command=pdflatex)
+3. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=doc.tex&command=pdflatex)
 
 This project is based on a template by **Alex Liberzon** (@alexlib) that can be found in [here](https://github.com/alexlib/tau_thesis_lyx_template).
 Compared to Liberzon's original template, this version contains enhancements and new features including:
