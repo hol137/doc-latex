@@ -24,17 +24,18 @@ We have made an effort to include an example for every possible type of element 
 **The project files:**
 ======
 
-1. **doc.sty** - the style file.
-2. **doc.tex** - the main template file.
-2. **acknowledge.tex** - the acknowledge part.
+1.1 **doc.sty** - the doc style file.
+1.2 **e-journal.sty** - the journal style file.
+2.1 **doc.tex** - the main template file.
+2.2 **acknowledge.tex** - the acknowledge part.
 3. **abstract.tex** - the abstract part.
-4. **introduction** - the introduction section (another chapter).
-4. **chapter1.tex** - a chapter template.
+4.1 **introduction** - the introduction section (another chapter).
+4.2 **chapter1.tex** - a chapter template.
 5. **chapter2.tex** - another chapter template.
 6. **references.tex** - the bibliography source file.
-7. **hebrew_part.docx** - an MS Word document containing the hebrew title and abstract parts.
-8. **hebrew_part.pdf** - the "hebrew_part.docx" exported to pdf.
-7. **figures** - the directory which should contain your figures.
+7.1 **hebrew_part.docx** - an MS Word document containing the hebrew title and abstract parts.
+7.2 **hebrew_part.pdf** - the "hebrew_part.docx" exported to pdf.
+8. **figures** - the directory which should contain your figures.
 
 **Usage notes:**
 ======
