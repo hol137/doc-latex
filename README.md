@@ -4,7 +4,7 @@ A latex doc formatted according to the scientific publication requirement.
 ### Demos:
 1. Here is a link to the example pdf [doc.pdf](Thesis-main.pdf).
 2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)
-3. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=doc.tex&command=pdflatex)
+
 
 This project is based on a template by **Alex Liberzon** (@alexlib) that can be found in [here](https://github.com/alexlib/tau_thesis_lyx_template).
 Compared to Liberzon's original template, this version contains enhancements and new features including:
@@ -24,8 +24,8 @@ We have made an effort to include an example for every possible type of element 
 **The project files:**
 ======
 
-1. **tauthesis.sty** - the style file.
-2. **Thesis-main.tex** - the main template file.
+1. **doc.sty** - the style file.
+2. **doc.tex** - the main template file.
 2. **acknowledge.tex** - the acknowledge part.
 3. **abstract.tex** - the abstract part.
 4. **introduction** - the introduction section (another chapter).
@@ -39,15 +39,15 @@ We have made an effort to include an example for every possible type of element 
 **Usage notes:**
 ======
 
-1. The "main" file is the **Thesis-main.tex**, thus, to render a pdf, run **Thesis-main.tex**.
+1. The "main" file is the **doc.tex**, thus, to render a pdf, run **doc.tex**.
 2. Your personal information, date, supervisor can be configured in the main file.
 3. The main file also defines the structure, order and numbering of the thesis title pages.
-4. The main file define the thesis content and order - starting from "\begin{document}"
+4. The main file define the thesis/doc content and order - starting from "\begin{document}"
 5. The main file defines all needed keywords - don't hesitate to remove unneeded definitions.
 6. The main file also include the dedication page.
 6. Every chapter should be written in a different tex file and added to the main file.
 7. Bibliography should be added in **references.bib**.
-8. Do not edit the file **tauthesis** unless you really know what you're doing.
+8. Do not edit the file **doc** unless you really know what you're doing.
 9. It is recommended that every chapter text file to contain its own nomenclatures, even if it is used in other chapters.
 10. It is recommended that every chapter/section/subsection/figure/table will have it's own label according to the convention that you can find in the different files in the project.
 10. Before start using this template it is recommended to go over all files in the project and try to make sense of the structure and also to see how to create different types of elements.
