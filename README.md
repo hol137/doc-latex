@@ -5,22 +5,12 @@ A latex doc formatted according to the scientific publication requirement.
 1. Here is a link to the example pdf [doc.pdf](doc.pdf).
 2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex), [latexbase.com](https://latexbase.com) or try [OverLeaf](https://www.overleaf.com/)
 
-| Latex Doc Type                | "*.sty"       | "*.tex"     |
-| ----------------------------- |:-------------:| -----------:|
-| Scientific publication Format | e-journal.sty | main.tex    |
-| Thesis Format                 | doc.sty       | doc.tex     |
-| Thesis Format (include)       | doc.sty       | chapter1.tex|
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
-
-
-|        Latex Doc Type       |     "*.sty" |      "*.tex"     |      Compile in PDF                                                                                                                                    |
-|Scientific publication Format|e-journal.sty| main.tex         |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)        |
-|                             |             |                  |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)        |
-|        Thesis Format        |    doc.sty  | doc.tex          |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=doc.tex&command=pdflatex)         |
-|    Thesis Format (include)  |    doc.sty  | acknowledge.tex  |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=acknowledge.tex&command=pdflatex) |
-|    Thesis Format (include)  |    doc.sty  | abstract.tex     |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=abstract.tex&command=pdflatex)    |
-|    Thesis Format (include)  |    doc.sty  | introduction.tex |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=introduction.tex&command=pdflatex)|
-|    Thesis Format (include)  |    doc.sty  | chapter1.tex     |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=chapter1.tex&command=pdflatex)    |
+| Latex Doc Type                | "*.sty"       | "*.tex"     |      Compile in PDF                                                                                                                                    |
+| ----------------------------- |:-------------:|:-----------:|------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|Scientific publication Format  |e-journal.sty  | main.tex    |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)      |
+|        Thesis Format          |    doc.sty    | doc.tex     |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=doc.tex&command=pdflatex)       |
+|    Thesis Format (include)    |    doc.sty    |abstract.tex |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=abstract.tex&command=pdflatex)  |
+|    Thesis Format (include)    |    doc.sty    | chapter1.tex|[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=chapter1.tex&command=pdflatex)  |
 
 
 This project is based on a template by **Alex Liberzon** (@alexlib) that can be found in [here](https://github.com/alexlib/tau_thesis_lyx_template).
