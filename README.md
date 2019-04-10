@@ -5,6 +5,16 @@ A latex doc formatted according to the scientific publication requirement.
 1. Here is a link to the example pdf [doc.pdf](doc.pdf).
 2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex), [latexbase.com](https://latexbase.com) or try [OverLeaf](https://www.overleaf.com/)
 
+|        Latex Doc Type       |       *.sty |       *.tex      | Compile in PDF @ |
+------------------------------------------------------------------------
+|Scientific publication Format|e-journal.sty| main.tex         |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)|
+|                             |             |                  |
+|        Thesis Format        |    doc.sty  | doc.tex          |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=doc.tex&command=pdflatex)|
+|    Thesis Format (include)  |    doc.sty  | acknowledge.tex  |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=acknowledge.tex&command=pdflatex)|
+|    Thesis Format (include)  |    doc.sty  | abstract.tex     |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=abstract.tex&command=pdflatex)|
+|    Thesis Format (include)  |    doc.sty  | introduction.tex |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=introduction.tex&command=pdflatex)|
+|    Thesis Format (include)  |    doc.sty  | chapter1.tex     |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=chapter1.tex&command=pdflatex)|
+
 
 This project is based on a template by **Alex Liberzon** (@alexlib) that can be found in [here](https://github.com/alexlib/tau_thesis_lyx_template).
 Compared to Liberzon's original template, this version contains enhancements and new features including:
@@ -29,7 +39,7 @@ We have made an effort to include an example for every possible type of element 
 - 2.1 **doc.tex** - the main template file.
 - 2.2 **acknowledge.tex** - the acknowledge part.
 - 3.0 **abstract.tex** - the abstract part.
-- 4.1 **introduction** - the introduction section (another chapter).
+- 4.1 **introduction.tex** - the introduction section (another chapter).
 - 4.2 **chapter1.tex** - a chapter template.
 - 5.0 **chapter2.tex** - another chapter template.
 - 6.0 **references.tex** - the bibliography source file.
