@@ -3,7 +3,7 @@ A latex doc formatted according to the scientific publication requirement.
 
 ### Demos:
 1. Here is a link to the example pdf [doc.pdf](doc.pdf).
-2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex) or try [OverLeaf](https://www.overleaf.com/)
+2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex), [latexbase.com](https://latexbase.com) or try [OverLeaf](https://www.overleaf.com/)
 
 
 This project is based on a template by **Alex Liberzon** (@alexlib) that can be found in [here](https://github.com/alexlib/tau_thesis_lyx_template).
@@ -28,14 +28,14 @@ We have made an effort to include an example for every possible type of element 
 - 1.2 **e-journal.sty** - the journal style file.
 - 2.1 **doc.tex** - the main template file.
 - 2.2 **acknowledge.tex** - the acknowledge part.
-- 3. **abstract.tex** - the abstract part.
+- 3.0 **abstract.tex** - the abstract part.
 - 4.1 **introduction** - the introduction section (another chapter).
 - 4.2 **chapter1.tex** - a chapter template.
-- 5. **chapter2.tex** - another chapter template.
-- 6. **references.tex** - the bibliography source file.
+- 5.0 **chapter2.tex** - another chapter template.
+- 6.0 **references.tex** - the bibliography source file.
 - 7.1 **hebrew_part.docx** - an MS Word document containing the hebrew title and abstract parts.
 - 7.2 **hebrew_part.pdf** - the "hebrew_part.docx" exported to pdf.
-- 8. **figures** - the directory which should contain your figures.
+- 8.0 **figures** - the directory which should contain your figures.
 
 **Usage notes:**
 ======
