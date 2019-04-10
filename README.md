@@ -5,7 +5,7 @@ A latex doc formatted according to the scientific publication requirement.
 1. Here is a link to the example pdf [doc.pdf](doc.pdf).
 2. A link to an online automatic latex build system: [latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex), [latexbase.com](https://latexbase.com) or try [OverLeaf](https://www.overleaf.com/)
 
-|        Latex Doc Type       |       *.sty |       *.tex      |      Compile in PDF @                                                                                                                                  |
+|        Latex Doc Type       |     "*.sty" |      "*.tex"     |      Compile in PDF                                                                                                                                    |
 |Scientific publication Format|e-journal.sty| main.tex         |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)        |
 |                             |             |                  |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=main.tex&command=pdflatex)        |
 |        Thesis Format        |    doc.sty  | doc.tex          |[latexonline.cc](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2FLaGuer%2Fdoc-latex&target=doc.tex&command=pdflatex)         |
