@@ -16,11 +16,9 @@ Compared to Liberzon's original template, this version contains enhancements and
 2. A facelift for the title page
 3. Nomenclature support
 4. Beautiful dedication page
-4. Arabic support
 5. Definition and Theorem style
-6. First and second supervisor
-7. With minimal changes it can be used as Ph.D dissertation template
-8. Bare Latex - LyX free.
+6. With minimal changes it can be used as Ph.D dissertation template
+7. Bare Latex - LyX free.
 
 We have made an effort to include an example for every possible type of element needed in a scientific publication or engineerig thesis (table, figure, nomenclatures, numbering, theorem, definition, etc).
 
@@ -28,9 +26,9 @@ We have made an effort to include an example for every possible type of element 
 ======
 
 
-- 1.2 **e-journal.sty** - the journal style file.
-- 2.1 **main.tex** - the main template file.
-- 8.0 **figures** - the directory which should contain your figures.
+- 1.0 **e-journal.sty** - the journal style file.
+- 2.0 **main.tex** - the main template file.
+- 3.0 **figures** - the directory which should contain your figures.
 
 **Usage notes:**
 ======
@@ -45,7 +43,6 @@ We have made an effort to include an example for every possible type of element 
 **General Notes:**
 ======
 
-1. For help you can contact the author at: kourgeorge/at/gmail.com.
-2. You can use, redistribute and do whatever with this project, however, the author takes no responsibility whatever usage of this project.
-3. If you start another project based on this project, it would be nice to mention/link to this project.
-4. You are very welcome to contribute to this project.
+1. You can use, redistribute and do whatever with this project, however, the author takes no responsibility whatever usage of this project.
+2. If you start another project based on this project, it would be nice to mention/link to this project.
+3. You are very welcome to contribute to this project.
