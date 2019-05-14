@@ -7,7 +7,7 @@ A latex doc formatted according to the scientific publication requirement.
 
 | Latex Doc Type                |      "*.sty"                 |        "*.tex"              |      Compile in PDF                                                                                                                                    |
 | ----------------------------- |:----------------------------:|:---------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|Scientific publication Format  |[e-journal.sty](e-journal.sty)| [main.tex](main.tex )       |[latexonline.cc main.tex](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2Fhol137r%2Fdoc-latex&target=main.tex&command=pdflatex)      |
+|Scientific publication Format  |[e-journal.sty](e-journal.sty)| [main.tex](main.tex )       |[latexonline.cc main.tex](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2Fhol137%2Fdoc-latex&target=main.tex&command=pdflatex)      |
 |Scientific publication Test  |[e-journal.sty](e-journal.sty)| [test.tex](test.tex )       |[latexonline.cc test.tex](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2Fhol137%2Fdoc-latex&target=test.tex&command=pdflatex)      |
 
 This project is based on a template by **Alex Liberzon** (@alexlib) that can be found in [here](https://github.com/alexlib/tau_thesis_lyx_template).
